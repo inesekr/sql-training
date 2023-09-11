@@ -1,5 +1,7 @@
 # 📊 SQL Training | [CODELEX](https://codelex.io)
 
+// Added this line for testing purposes only.
+
 This repository consists of exercises to train your skills on SQL. SQLite was chosen because it is platform agnostic, and stores data in a single file which can be accessed easily.
 
 ## Prerequisites
